@@ -1,0 +1,2 @@
+../Core/utils/ramp.c:11:9:ramp_clamp_i16	16	static
+../Core/utils/ramp.c:20:9:ramp_step_i16	24	static

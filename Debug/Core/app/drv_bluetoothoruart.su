@@ -1,0 +1,5 @@
+../Core/app/drv_bluetoothoruart.c:21:6:Bluetooth_Init	16	static
+../Core/app/drv_bluetoothoruart.c:32:6:Bluetooth_StartReceiveIT	8	static
+../Core/app/drv_bluetoothoruart.c:40:6:Bluetooth_RxCpltCallback	24	static
+../Core/app/drv_bluetoothoruart.c:81:6:Bluetooth_IsLineReady	4	static
+../Core/app/drv_bluetoothoruart.c:86:6:Bluetooth_GetLine	16	static

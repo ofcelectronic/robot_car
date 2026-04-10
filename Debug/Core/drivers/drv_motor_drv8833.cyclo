@@ -1,0 +1,11 @@
+../Core/drivers/drv_motor_drv8833.c:14:24:clamp_u16	3
+../Core/drivers/drv_motor_drv8833.c:21:23:clamp_i16	3
+../Core/drivers/drv_motor_drv8833.c:28:13:pwm_start_all	1
+../Core/drivers/drv_motor_drv8833.c:36:13:pwm_write	4
+../Core/drivers/drv_motor_drv8833.c:41:13:motor_apply_left	1
+../Core/drivers/drv_motor_drv8833.c:47:13:motor_apply_right	1
+../Core/drivers/drv_motor_drv8833.c:53:6:Motor_Drv8833_Enable	2
+../Core/drivers/drv_motor_drv8833.c:62:6:Motor_Drv8833_IsFaultActive	1
+../Core/drivers/drv_motor_drv8833.c:68:6:Motor_Drv8833_StopAll	2
+../Core/drivers/drv_motor_drv8833.c:84:6:Motor_Drv8833_Init	1
+../Core/drivers/drv_motor_drv8833.c:91:6:Motor_Drv8833_SetSpeed	4

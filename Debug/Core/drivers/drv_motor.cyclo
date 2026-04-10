@@ -1,0 +1,5 @@
+../Core/drivers/drv_motor.c:19:6:Motor_Init	1
+../Core/drivers/drv_motor.c:26:6:Motor_Enable	1
+../Core/drivers/drv_motor.c:33:6:Motor_IsFaultActive	1
+../Core/drivers/drv_motor.c:42:6:Motor_StopAll	1
+../Core/drivers/drv_motor.c:49:6:Motor_SetSpeed	1

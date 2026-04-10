@@ -1,0 +1,4 @@
+../Core/services/svc_motion.c:32:6:Motion_Init	8	static
+../Core/services/svc_motion.c:45:6:Motion_Enable	16	static
+../Core/services/svc_motion.c:61:6:Motion_SetTarget	16	static
+../Core/services/svc_motion.c:68:6:Motion_Tick_10ms	8	static

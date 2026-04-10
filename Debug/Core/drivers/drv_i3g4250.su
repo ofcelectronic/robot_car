@@ -1,0 +1,11 @@
+../Core/drivers/drv_i3g4250.c:24:13:cs_low	8	static
+../Core/drivers/drv_i3g4250.c:29:13:cs_high	8	static
+../Core/drivers/drv_i3g4250.c:34:9:gyro_read	32	static
+../Core/drivers/drv_i3g4250.c:51:6:gyro_write	24	static
+../Core/drivers/drv_i3g4250.c:65:9:I3G4250_ReadWhoAmI	8	static
+../Core/drivers/drv_i3g4250.c:71:6:I3G4250_Init	8	static
+../Core/drivers/drv_i3g4250.c:76:9:I3G4250_ReadZ	16	static
+../Core/drivers/drv_i3g4250.c:84:6:I3G4250_ReadXYZ	32	static
+../Core/drivers/drv_i3g4250.c:102:6:I3G4250_ReadXYZ_dps	32	static
+../Core/drivers/drv_i3g4250.c:113:8:I3G4250_ReadTempRaw	16	static
+../Core/drivers/drv_i3g4250.c:122:7:I3G4250_ReadTempC	16	static

@@ -1,0 +1,9 @@
+../Core/services/svc_heading.c:27:6:Heading_Init	1
+../Core/services/svc_heading.c:40:6:Heading_Calibrate	2
+../Core/services/svc_heading.c:64:6:Heading_Update	1
+../Core/services/svc_heading.c:79:7:Heading_GetYaw	1
+../Core/services/svc_heading.c:84:7:Heading_GetPitch	1
+../Core/services/svc_heading.c:89:7:Heading_GetRoll	1
+../Core/services/svc_heading.c:94:7:Heading_GetTemp	1
+../Core/services/svc_heading.c:101:6:Heading_Print	1
+../Core/services/svc_heading.c:108:6:TestWhoAmI	1
